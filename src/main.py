@@ -1,2 +1,2 @@
-autopilot = "Hello, Programming Hero!"
-print(atopilot[1])
+autopilot = "Hello, Programming autorun!"
+print(drop it[500])
